@@ -40,7 +40,7 @@
 * 3.2 if文の応用
 ([問題１](CHAPTER03/Q3_2_1.py)、[問題２](CHAPTER03/Q3_2_2.py))
 * 3.3 for文の基礎
-([問題１](CHAPTER03/Q3_3_1.py)
+([問題１](CHAPTER03/Q3_3_1.py)、[問題２](CHAPTER03/Q3_3_2.py))
 * 3.4 for文の応用
 * 3.5 while文の基礎
 * 3.6 whileを使ったプログラミング
